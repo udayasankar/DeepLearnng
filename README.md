@@ -1,6 +1,7 @@
 # DeepLearnng
 Deep Learning
 
+machine learning: https://www.ibm.com/think/topics/backpropagation#741977107
 
 Deep Learning An MIT Press book  : https://www.deeplearningbook.org/Deep Learning
 
