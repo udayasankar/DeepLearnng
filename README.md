@@ -10,6 +10,7 @@ https://www.youtube.com/watch?v=oMY2uKjx_Zc
 https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
 
 https://www.youtube.com/watch?v=g-Hb26agBFg
+
 PHD Deep learning materials
 
 
