@@ -1,11 +1,19 @@
 # DeepLearnng
 Deep Learning
-
+PHD Deep learning materials
 https://www.youtube.com/watch?v=alfdI7S6wCY&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
+
 https://www.youtube.com/watch?v=SdTZAMDKrNY&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=11
+
 https://www.youtube.com/watch?v=oMY2uKjx_Zc
+
 https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+
 https://www.youtube.com/watch?v=g-Hb26agBFg
+PHD Deep learning materials
+
+
+
 
 machine learning: https://www.ibm.com/think/topics/backpropagation#741977107
 
